@@ -1,6 +1,6 @@
 .catalog:
     name: "Convoy EFS"
-    version: "v0.1.0"
+    version: "v0.2.0"
     description: "Convoy EFS - Docker volume plugin"
     questions:
      - variable: "EFS_SERVER"
